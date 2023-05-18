@@ -1,0 +1,5 @@
+echo "# Amazon.app">>README.md
+git init
+git add README.ms
+git commit -n "first commit"
+git branch -M main
